@@ -20,5 +20,5 @@ app.use("/api/pins",pinRoute);
 app.use("/api/users",userRoute);
 
 app.listen(process.env.PORT||8800,()=>{
-    console.log("So gya yeh jahan");
+    console.log("Server Started");
 })
