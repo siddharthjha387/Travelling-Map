@@ -14,7 +14,8 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import Register from "./components/Register";
 import Login from "./components/Login";
 
-const MAPBOX_TOKEN =""; // Set your mapbox token here
+const MAPBOX_TOKEN =
+  ""; // Set your mapbox token here
 
 function App() {
   const myStorage=window.localStorage;
