@@ -15,7 +15,7 @@ import Register from "./components/Register";
 import Login from "./components/Login";
 
 const MAPBOX_TOKEN =
-  "pk.eyJ1Ijoic2lkZGhhcnRoMTUzIiwiYSI6ImNsNHh1cjZrZzAzbHozZHBtMzFpenV5ZHgifQ.zmLUIK5nwfUXBs12nXyeIA"; // Set your mapbox token here
+  ""; // Set your mapbox token here
 
 function App() {
   const myStorage=window.localStorage;
